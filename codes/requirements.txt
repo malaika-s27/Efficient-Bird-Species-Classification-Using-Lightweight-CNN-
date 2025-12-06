@@ -1,0 +1,13 @@
+numpy
+scipy
+librosa
+soundfile
+audioread
+pydub
+webrtcvad-wheels
+tensorflow
+tensorflow-addons
+scikit-learn
+matplotlib
+tqdm
+audiomentations
